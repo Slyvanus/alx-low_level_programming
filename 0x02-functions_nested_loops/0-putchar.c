@@ -3,7 +3,7 @@
  *main- this is the entry point
  *return: returns 0
  */
-int main(0)
+int main(void)
 
 {
 	_putchar('_');
